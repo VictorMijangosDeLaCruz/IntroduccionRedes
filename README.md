@@ -13,6 +13,6 @@ El participante identificará qué es un tensor, las operaciones tensoriales bá
 ## Materiales disponibles
 
 1. <b>Tensores</b>
-  1. [Introducción a los tensores, tamaño y elementos]()
-  2. [Operaciones con tensores]()
-  3. [Gráficas computacionales]()
+  1. [Introducción a los tensores, tamaño y elementos](https://victormijangosdelacruz.github.io/IntroduccionRedes/blob/main/html/01%20Tensores.html)
+  2. [Operaciones con tensores](https://victormijangosdelacruz.github.io/IntroduccionRedes/blob/main/html/02%20Operaciones.html)
+  3. [Gráficas computacionales](https://victormijangosdelacruz.github.io/IntroduccionRedes/blob/main/html/03%20ComputationalGraphs.html)
