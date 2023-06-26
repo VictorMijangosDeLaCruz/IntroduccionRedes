@@ -20,3 +20,6 @@ El participante identificará qué es un tensor, las operaciones tensoriales bá
     1. [Datos estructurados](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/04%20DataAnalysis.html)
     2. [Datos no estructurados](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/05%20UnstructuredData.html)
     3. [Cargadores de datos](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/06%20DataLoader.html)
+3. <b>Diferenciación automática</b>
+    1. [Modo Forward](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/07%20ForwardMode.html)
+    2. [Modo Reverse](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/08%20ReverseMode.html)
