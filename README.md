@@ -16,6 +16,7 @@ El participante identificará qué es un tensor, las operaciones tensoriales bá
     1. [Introducción a los tensores, tamaño y elementos](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/01%20Tensores.html)
     2. [Operaciones con tensores](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/02%20Operaciones.html)
     3. [Gráficas computacionales](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/03%20ComputationalGraphs.html)
+    4. [Construcción de gráfica dinámica](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/03bBuildCG.html)
 2. <b>Representación de datos</b>
     1. [Datos estructurados](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/04%20DataAnalysis.html)
     2. [Datos no estructurados](https://victormijangosdelacruz.github.io/IntroduccionRedes/html/05%20UnstructuredData.html)
